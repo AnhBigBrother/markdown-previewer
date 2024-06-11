@@ -1,3 +1,3 @@
-convert Markdown language to html  
-created with Reactjs, Redux and Showdown library  
-deploy: https://anhbigbrother.github.io/markdown-previewer/  
+Convert Markdown to text.  
+Created with Reactjs, Redux, and Showdown library.  
+Deploy: https://anhbigbrother.github.io/markdown-previewer/  
